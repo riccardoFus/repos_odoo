@@ -103,8 +103,8 @@
 37699;Marchesi Antinori Tenuta Monteloro Scabrezza Toscana Bianco IGT;Antinori - Tenuta Monteloro;Toscana IGT;TOSCANA;Pinot Bianco;Tradizionale;75;12%;Vini;Bianco;9,401
 37700;Marchesi Antinori Tenuta Monteloro Mezzo Braccio Toscana Bianco IGT;Antinori - Tenuta Monteloro;Toscana IGT;TOSCANA;Riesling Renano;Tradizionale;75;13,50%;Vini;Bianco;19,868
 37701;Marchese Antinori Tenuta Montenisa Donna Cora Sat�n Brut Millesimato Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Chardonnay;Tradizionale;75;12,50%;Bollicine;Blanc de Noir;30,38
-37702;Marchese Antinori Tenuta Montenisa Cuv�e Royale Brut Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Chardonnay;Tradizionale;75;12,50%;Bollicine;;21,952
-37703;Marchese Antinori Tenuta Montenisa Blanc de Blancs Brut Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Chardonnay;Tradizionale;75;12,50%;Bollicine;;24,452
+37702;Marchese Antinori Tenuta Montenisa Cuv�e Royale Brut Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Chardonnay;Tradizionale;75;12,50%;Bollicine;Blanc de Blanc;21,952
+37703;Marchese Antinori Tenuta Montenisa Blanc de Blancs Brut Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Chardonnay;Tradizionale;75;12,50%;Bollicine;Blanc de Blanc;24,452
 37704;Marchese Antinori Tenuta Montenisa Ros� Brut Franciacorta DOCG;Antinori - Tenuta Montenisa;Franciacorta DOCG;LOMBARDIA;Pinot Nero;Tradizionale;75;12,50%;Bollicine;Ros�;26,675
 37705;Marchesi Antinori Tenuta Tignanello Chianti Classico DOCG Riserva ;Antinori - Tenuta Tignanello;Chianti Classico DOCG;TOSCANA;Sangiovese;Tradizionale;75;14%;Vini;Rosso;27,833
 37706;Marchesi Antinori Tenuta Tignanello Solaia 2017 Rosso Toscana IGT ;Antinori - Tenuta Tignanello;Toscana IGT;TOSCANA;Cabernet Sauvignon;Tradizionale;75;14%;Vini;Rosso;260,363
@@ -1431,7 +1431,7 @@
 801514064;Vigneti Massa L'Avvelenata Rosso;Vigneti Massa;Vino Rosso d'Italia;PIEMONTE;Freisa;Tradizionale;75;14%;Vini;Rosso;14,171
 801514065;Vigneti Massa Terra Implicito;Vigneti Massa;Vino Rosso d'Italia;PIEMONTE;Barbera;Tradizionale;75;12,50%;Vini;Rosso;5,002
 801514066;Vigneti Massa Pertichetta Croatina;Vigneti Massa;Vino Rosso d'Italia;PIEMONTE;Croatina;Tradizionale;75;14,50%;Vini;Rosso;14,125
-801514205;Banfi Col di Sasso Toscana IGT;Banfi;Toscana IGT;TOSCANA;Cabernet Sauvignon;Tradizionale;75;13%;Vini;;5,048
+801514205;Banfi Col di Sasso Toscana IGT;Banfi;Toscana IGT;TOSCANA;Cabernet Sauvignon;Tradizionale;75;13%;Vini;Rosso;5,048
 801514234;Carpentiere Primaluce Castel del Monte Bombino Nero Rosato DOCG;Carpentiere;Castel del Monte Bombino Nero DOCG;PUGLIA;Bombino Nero;Tradizionale;75;12,50%;Vini;Rosato;7,41
 801514235;Carpentiere Cabernet Castel del Monte DOC;Carpentiere;Castel del Monte DOC;PUGLIA;Cabernet Sauvignon;Tradizionale;75;13,50%;Vini;Rosso;8,382
 801514236;Carpentiere Pietra dei Lupi Nero di Troia DOC;Carpentiere;Castel del Monte DOC;PUGLIA;Nero di Troia;Tradizionale;75;14%;Vini;Rosso;8,382
